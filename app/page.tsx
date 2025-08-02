@@ -5,7 +5,7 @@ import { Projects } from "@/components/projects"
 import { Contact } from "@/components/contact"
 import { Navigation } from "@/components/navigation"
 import { ThemeProvider } from "@/components/theme-provider"
-import { HonoursAndAwards } from "@/components/Awards"
+import { HonoursAndAwards } from "@/components/awards"
 export default function Portfolio() {
   return (
     <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
